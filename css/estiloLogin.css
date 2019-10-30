@@ -18,15 +18,14 @@ body {
   border-radius: 8%;
 }
 
-.login-box .avatar {
-  width: 100px;
-  height: 100px;
+.avatar {
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
   position: absolute;
-  top: -50px;
-  left: calc(50% - 50px);
+  top: -29%;
+  left: 3%;
 }
-
 
 .login-box label {
   margin: 0;

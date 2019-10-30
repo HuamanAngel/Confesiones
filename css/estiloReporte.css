@@ -18,12 +18,12 @@ body{
   }
 
   .contenedor .avatar {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     position: absolute;
-    top: -50px;
-    left: calc(50% - 50px);
+    top: -28%;
+    left: 3%;
   }
 
   .contenedor p{
